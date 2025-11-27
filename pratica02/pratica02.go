@@ -37,4 +37,5 @@ func main() {
 	fmt.Println("Ki extra não carregado: ", kiExtra)
 
 	fmt.Println("Raiz da diferença: ", math.Sqrt(float64(diff)))
+
 }
